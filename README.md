@@ -7,5 +7,5 @@ My first Emojicode project! 🥳
 
 ## Usage
 ```bash
-emojicode greetings.emojic
+emojicodec greetings.emojic
 ```
