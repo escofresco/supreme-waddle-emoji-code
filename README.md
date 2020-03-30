@@ -13,3 +13,9 @@ emojicodec greetings.emojic
 # Run greetings
 ./greetings
 ```
+
+# Notes
+  * Print: 😀<args>❗️
+  * List: 🍿<elm0, elm1,...,elmN>🍆
+  * Assign: ➡️
+  * Index: 🐽❗️
