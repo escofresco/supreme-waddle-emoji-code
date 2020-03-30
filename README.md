@@ -7,5 +7,15 @@ My first Emojicode project! 🥳
 
 ## Usage
 ```bash
-emojicode greetings.emojic
+# Make greetings executable
+emojicodec greetings.emojic
+
+# Run greetings
+./greetings
 ```
+
+# Notes
+  * Print: 😀<args>❗️
+  * List: 🍿<elm0, elm1,...,elmN>🍆
+  * Assign: ➡️
+  * Index: 🐽❗️
